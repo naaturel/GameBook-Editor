@@ -1,0 +1,85 @@
+.header
+{
+    -fx-spacing: 20;
+}
+
+.credentials, .editor
+{
+    -fx-background-color: aqua;
+    -fx-alignment: center;
+    -fx-spacing: 40;
+    -fx-max-height: 500;
+}
+
+.editor
+{
+    -fx-background-color: pink;
+}
+
+.descript
+{
+    -fx-underline: true;
+    -fx-font-size: 20;
+}
+
+.firstname, .lastname, .isbn, .title
+{
+    -fx-max-width: 300;
+    -fx-min-height: 50;
+    -fx-font-size: 20;
+    -fx-alignment: center;
+}
+
+.summary
+{
+    -fx-max-width: 500;
+    -fx-alignment: center;
+}
+
+.writtingCheck, .editionStatus
+{
+    -fx-font-size: 14;
+}
+
+.editIsbn, .editTitle, .editSummary, .textPage
+{
+    -fx-max-width: 300;
+}
+
+.numsPage
+{
+    -fx-max-width: 325;
+    -fx-spacing: 30;
+
+}
+
+.pageTexts
+{
+    -fx-max-width: 400;
+    -fx-spacing: 5;
+    -fx-alignment: center;
+
+}
+
+.bookInfos
+{
+    -fx-padding: 12;
+    -fx-spacing: 3;
+    -fx-max-height: 350;
+    -fx-alignment: center;
+}
+
+.pageInfos
+{
+    -fx-padding: 12;
+    -fx-spacing: 10;
+    -fx-alignment: center;
+    -fx-background-color: pink;
+}
+.edition
+{
+    -fx-min-width: 591;
+    -fx-max-height: 535;
+    -fx-alignment: center;
+    -fx-background-color: aqua;
+}

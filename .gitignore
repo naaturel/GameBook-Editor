@@ -1,0 +1,10 @@
+/.gradle
+/gradle
+/.idea
+/config
+/gradlew
+/gradlew.bat
+/settings.gradle
+gradlew
+gradlew.bat
+settings.gradle
